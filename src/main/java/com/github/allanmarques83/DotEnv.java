@@ -1,4 +1,4 @@
-package com.dotenv;
+package com.github.allanmarques83;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
