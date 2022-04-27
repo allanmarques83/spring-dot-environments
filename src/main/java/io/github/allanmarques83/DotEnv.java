@@ -1,4 +1,4 @@
-package com.github.allanmarques83;
+package io.github.allanmarques83;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

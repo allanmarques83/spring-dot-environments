@@ -1,4 +1,4 @@
-package com.github.allanmarques83;
+package io.github.allanmarques83;
 
 import java.io.IOException;
 import java.nio.file.Files;
