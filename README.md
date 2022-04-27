@@ -8,7 +8,7 @@ In your pom.xml add the following dependency:
 ```bash
 <dependency>
     <groupId>com.dotenv</groupId>
-    <artifactId>spring-dot-enviroments</artifactId>
+    <artifactId>spring-dot-environments</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
