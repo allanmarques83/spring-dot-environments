@@ -1,4 +1,4 @@
-# spring-dot-enviroments
+# spring-dot-environments
 Provides a library for setting environment variables in the Spring Boot framework
 
 ## Installation

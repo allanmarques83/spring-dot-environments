@@ -5,17 +5,34 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.dotenv</groupId>
-    <artifactId>spring-dot-enviroments</artifactId>
+    <artifactId>spring-dot-environments</artifactId>
     <version>${revision}</version>
     <name>spring-dot-enviroments</name>
-    <description>Set enviroments variables in Spring Boot</description>
+    <url>https://github.com/allanmarques83/spring-dot-environments</url>
+    <description>Set environments variables in Spring Boot</description>
     <packaging>jar</packaging>
+
+    <licenses>
+        <license>
+            <name>GNU GENERAL PUBLIC LICENSE</name>
+            <url>https://github.com/allanmarques83/spring-dot-environments/blob/main/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <properties>
         <maven.compiler.release>11</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
+    
+    <developers>
+        <developer>
+            <id>allanmarques83</id>
+            <name>Allan Marques</name>
+            <email>graftual at gmail dot com</email>
+        </developer>
+    </developers>
 
 	<dependencies>
 		<dependency>
